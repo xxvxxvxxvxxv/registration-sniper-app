@@ -1,0 +1,12 @@
+ПУБЛИЧНАЯ ВИТРИНА REGISTRATION SNIPER
+
+1. На GitHub нажми New repository.
+2. Repository name: registration-sniper-public
+3. Visibility: Public.
+4. Не добавляй README, .gitignore или лицензию через форму GitHub.
+5. Создай пустой репозиторий.
+6. Нажми uploading an existing file.
+7. Загрузи README.md, LICENSE и папку assets из этого пакета.
+8. Commit message: Create public Registration Sniper showcase
+
+В этом репозитории нет исходного кода, секретов, пользовательских данных или истории рабочего проекта.
